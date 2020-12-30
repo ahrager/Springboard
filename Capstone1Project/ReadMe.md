@@ -13,3 +13,6 @@ To be added later
 #### &ensp;&ensp;&ensp;&ensp;&ensp;1.2 <a href="https://github.com/ahrager/Springboard/blob/master/Capstone1Project/001b_EDAandDataPrep_Capstone_1_WhiteWineQuality_20201230.ipynb" target="_blank">EDA After Outliers Removed</a>
 ### 2. <a href="https://github.com/ahrager/Springboard/blob/master/Capstone1Project/002_Regression_Capstone_1_WhiteWineQuality_20201230.ipynb" target="_blank">Linear Regression</a>
 ### 3. <a href="https://github.com/ahrager/Springboard/blob/master/Capstone1Project/003_KNN_Capstone_1_WhiteWineQuality_20201230.ipynb" target="blank">K Nearest Neighbor (KNN) Classifer</a>
+### 4. <a href=
+"https://github.com/ahrager/Springboard/blob/master/Capstone1Project/004_DTC%20_Capstone1_WhiteWineQuality_20201230.ipynb" target = "_blank">Decision Tree Classifier (DTC)</a>
+
