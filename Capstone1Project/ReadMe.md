@@ -17,7 +17,7 @@ To be added later
 ### 5. <a href=""></a>
 ### 6. Random Forest Regressor
 #### &ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://github.com/ahrager/Springboard/blob/master/Capstone1Project/006a_RandomForestRegressor_Capstone1_WhiteWineQualityOutliersRemoved_20210105.ipynb">6.1</a>
-#### &ensp;&ensp;&ensp;&ensp;&ensp;<a href="">6.2</a>
+#### &ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://github.com/ahrager/Springboard/blob/master/Capstone1Project/006b_RandomForestRegression_OutliersNOTRemoved_Capstone1WhiteWineQuality_20210105.ipynb">6.2</a>
 #### &ensp;&ensp;&ensp;&ensp;&ensp;<a href="">6.4</a>
 #### &ensp;&ensp;&ensp;&ensp;&ensp;<a href="">6.4</a>
 
