@@ -11,6 +11,8 @@ To be added later
 ### 1. <a href="">Exploratory Data Analysis (EDA)</a> Link complete when this text is gone.
 #### &ensp;&ensp;&ensp;&ensp;&ensp;1.1 <a href="">EDA Before Outliers Removed</a>Link complete when this text is gone.
 #### &ensp;&ensp;&ensp;&ensp;&ensp;1.2 <a href="">EDA After Outliers Removed</a>Link complete when this text is gone.
+#### &ensp;&ensp;&ensp;&ensp;&ensp;1.3 <a href="">2 and 3 category reclassifiation</a>Link complete when this text is gone.
+
 ### 2. <a href="">Linear Regression</a>Link complete when this text is gone.
 ### 3. <a href="">K Nearest Neighbor (KNN) Classifer</a>Link complete when this text is gone.
 ### 4. <a href="">Decision Tree Classifier (DTC)</a>Link complete when this text is gone.
