@@ -8,10 +8,9 @@ To be added later
 
 
 ## Table of Contents
-### 1. <a href="">Exploratory Data Analysis (EDA)</a> Link complete when this text is gone.
-#### &ensp;&ensp;&ensp;&ensp;&ensp;1.1 <a href="">EDA Before Outliers Removed</a>Link complete when this text is gone.
-#### &ensp;&ensp;&ensp;&ensp;&ensp;1.2 <a href="">EDA After Outliers Removed</a>Link complete when this text is gone.
-#### &ensp;&ensp;&ensp;&ensp;&ensp;1.3 <a href="">2 and 3 category reclassifiation</a>Link complete when this text is gone.
+### 1. Exploratory Data Analysis (EDA)
+#### &ensp;&ensp;&ensp;&ensp;&ensp;1.1 <a href="https://github.com/ahrager/Springboard/blob/master/Capstone1Project/001a_EDAandDataPrep_Capstone_1_WhiteWineQuality_20210324.ipynb">EDA Before Outliers Removed</a>
+#### &ensp;&ensp;&ensp;&ensp;&ensp;1.2 <a href="https://github.com/ahrager/Springboard/blob/master/Capstone1Project/001b_EDAandDataPrepOR_Capstone_1_WhiteWineQuality_20210324.ipynb">EDA After Outliers Removed</a>L
 
 ### 2. <a href="">Linear Regression</a>Link complete when this text is gone.
 ### 3. <a href="">K Nearest Neighbor (KNN) Classifer</a>Link complete when this text is gone.
