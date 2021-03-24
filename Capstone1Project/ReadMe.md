@@ -17,10 +17,10 @@ To be added later
 ### 4. <a href="">Decision Tree Classifier (DTC)</a>Link complete when this text is gone.
 ### 5. <a href="">TBD</a>Link complete when this text is gone.
 ### 6. <a href="">Random Forest Regressor</a>Link complete when this text is gone.
-#### &ensp;&ensp;&ensp;&ensp;&ensp;6.1 <a href="">Random Forest Regressor, White Wine, Outliers Removed</a>Link complete when this text is gone.
-#### &ensp;&ensp;&ensp;&ensp;&ensp;6.2 <a href="">Random Forest Regressor, White Wine, Outliers Not Removed</a>Link complete when this text is gone.
-#### &ensp;&ensp;&ensp;&ensp;&ensp;6.3 <a href="">Random Forest Regressor, Red Wine, Outliers Removed</a>Link complete when this text is gone.
-#### &ensp;&ensp;&ensp;&ensp;&ensp;6.4 <a href="">Random Forest Regressor, Red Wine, Outliers Not Removed</a>Link complete when this text is gone.
+#### &ensp;&ensp;&ensp;&ensp;&ensp;6.1.1 <a href="">Random Forest Regressor, White Wine, Outliers Not Removed, Not Balanced</a>Link complete when this text is gone.
+#### &ensp;&ensp;&ensp;&ensp;&ensp;6.1.2 <a href="">Random Forest Regressor, White Wine, Outliers Not Removed, Balanced</a>Link complete when this text is gone.
+#### &ensp;&ensp;&ensp;&ensp;&ensp;6.2.1 <a href="">Random Forest Regressor, White Wine, Outliers Removed, Not Balanced</a>Link complete when this text is gone.
+#### &ensp;&ensp;&ensp;&ensp;&ensp;6.2.2 <a href="">Random Forest Regressor, White Wine, Outliers Removed, Balanced</a>Link complete when this text is gone.
 
 
 
